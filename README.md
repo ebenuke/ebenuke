@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @parelle
+- 👋 Hi, I’m @ebenuke
 - 👀 I’m interested in drawing and writing
-- 🌱 I’m currently learning how to code in Python
+- 🌱 I’m currently learning how to code in Python, HTML, and CSS
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me - Discord: eben#0911, though FRs are off
 
