@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ebenuke, but i goby eben or Quinn 
+- 👋 Hi, I’m @ebenuke, but i go by eben or Quinn 
 - 👀 I’m interested in drawing and writing
 - 🌱 I’m currently learning how to code in Python, HTML, and CSS
 - 💞️ I’m looking to collaborate on nothing at the moment
