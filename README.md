@@ -1,6 +1,9 @@
-• eben/Quinn 
+• eben/Quinn
+
 • i like drawing and writing
+
 • learning how to code in Python, HTML, and CSS
+
 • Discord: eben#5738, though FRs are off || Guilded: www.guilded.gg/eben
 
 <!---
