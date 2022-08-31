@@ -4,7 +4,7 @@
 
 • learning how to code in Python, HTML, and CSS
 
-• Discord: eben#5738, though FRs are off unless we have mutuals || Guilded: www.guilded.gg/eben
+• Discord: eben#0404, though FRs are off unless we have mutuals || Guilded: www.guilded.gg/eben
 
 <!---
 parelle/parelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
