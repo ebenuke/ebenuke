@@ -1,4 +1,4 @@
-• eben/Quinn
+• eben/Mack
 
 • i like drawing and writing
 
